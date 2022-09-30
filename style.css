@@ -1,0 +1,38 @@
+ *{
+    background-color:  #54BAB9;
+    font-family: 'Amatic SC', cursive;
+ }
+ 
+ #wrapper{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#container{
+    padding-top: 20rem;
+}
+
+#container #temp{
+    font-size: 8rem;
+
+}
+
+.fst{
+    font-weight: bold;
+    font-size: 2.8rem;
+}
+
+.scnd{
+    font-weight: bold;
+    font-size: 4rem;
+}
+
+.thrd{
+    font-weight: bold;
+    font-size: 6rem;
+}
+
+#image{
+    background: none ;
+}
